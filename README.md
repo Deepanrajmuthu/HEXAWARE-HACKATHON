@@ -34,3 +34,6 @@ AI: Machine Learning for Predictive Analytics and Demand Forecasting<br>
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+prototype of working application : https://www.figma.com/proto/uiAfDdPMJwRxd0bQLAruPw/Untitled?node-id=0-1&t=l5P1QoYVcCtSprML-1 
