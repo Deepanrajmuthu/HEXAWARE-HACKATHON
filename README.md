@@ -6,8 +6,8 @@ Problem Statement
 In today's fast-paced world, efficient and reliable transportation is crucial. Our project addresses this need by developing a ride-sharing mobile application that simplifies the process of booking rides and connects users with drivers seamlessly. The application is designed to be user-friendly, secure, and efficient, offering features such as real-time ride tracking, easy payment options, and driver ratings.
 
 Team Members <br>
-Deepan Raj M: Lead Developer<br>
-Mohamed Jaasim: UI/UX Designer<br>
+Mohamed Jaasim: Lead developer<br>
+Deepan Raj M: frontend Developer<br>
 Mohamed Marzook: Backend Developer<br>
 Gowtham: Quality Assurance and Testing<br>
 
